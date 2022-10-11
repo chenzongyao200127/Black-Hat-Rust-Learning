@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/czy/Desktop/Rust_project/Black Hat Rust Learning/sha1_cracker/target/debug/build/typenum-2bc366e88b66e1df/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/home/czy/Desktop/Rust_project/Black Hat Rust Learning/sha1_cracker/target/debug/build/typenum-2bc366e88b66e1df/out/op.rs
