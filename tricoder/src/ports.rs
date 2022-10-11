@@ -7,9 +7,9 @@ use std::net::{SocketAddr, ToSocketAddrs};
 use std::{net::TcpStream, time::Duration};
 
 pub fn scan_ports(mut subdomain: Subdomain) -> Subdomain {
-    let socket_addresses: Vec<SocketAddr> = format!("{}:1024", subdomain.domain)
+    let socket_addresses: Vec<SocketAddr> = format!("{}:7890", subdomain.domain)
         .to_socket_addrs()
-        .expect("port scanner: Creating socket address")
+        .expect("[*] port scanner: Creating socket address")
         .collect();
 
     if socket_addresses.is_empty() {

@@ -1,4 +1,5 @@
 use serde::Deserialize;
+// Serde is a framework for serializing and deserializing Rust data structures efficiently and generically.
 
 #[derive(Debug, Clone)]
 pub struct Subdomain {

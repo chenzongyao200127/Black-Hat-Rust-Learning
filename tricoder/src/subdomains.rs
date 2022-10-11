@@ -44,7 +44,7 @@ pub fn enumerate(http_client: &Client, target: &str) -> Result<Vec<Subdomain>, E
 
 pub fn resolves(domain: &Subdomain) -> bool {
     let mut opts = ResolverOpts::default();
-    opts.timeout = Duration::from_secs(4);
+    opts.timeout = Duration::from_secs(10);
 
     let dns_resolver = Resolver::new(
         ResolverConfig::default(),
