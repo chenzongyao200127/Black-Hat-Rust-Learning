@@ -1,0 +1,12 @@
+/home/czy/Desktop/Rust_project/Black Hat Rust Learning/tricoder/target/debug/deps/libthiserror_impl-b27d761e9818a156.so: /home/czy/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/thiserror-impl-1.0.37/src/lib.rs /home/czy/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/thiserror-impl-1.0.37/src/ast.rs /home/czy/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/thiserror-impl-1.0.37/src/attr.rs /home/czy/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/thiserror-impl-1.0.37/src/expand.rs /home/czy/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/thiserror-impl-1.0.37/src/fmt.rs /home/czy/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/thiserror-impl-1.0.37/src/generics.rs /home/czy/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/thiserror-impl-1.0.37/src/prop.rs /home/czy/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/thiserror-impl-1.0.37/src/valid.rs
+
+/home/czy/Desktop/Rust_project/Black Hat Rust Learning/tricoder/target/debug/deps/thiserror_impl-b27d761e9818a156.d: /home/czy/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/thiserror-impl-1.0.37/src/lib.rs /home/czy/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/thiserror-impl-1.0.37/src/ast.rs /home/czy/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/thiserror-impl-1.0.37/src/attr.rs /home/czy/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/thiserror-impl-1.0.37/src/expand.rs /home/czy/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/thiserror-impl-1.0.37/src/fmt.rs /home/czy/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/thiserror-impl-1.0.37/src/generics.rs /home/czy/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/thiserror-impl-1.0.37/src/prop.rs /home/czy/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/thiserror-impl-1.0.37/src/valid.rs
+
+/home/czy/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/thiserror-impl-1.0.37/src/lib.rs:
+/home/czy/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/thiserror-impl-1.0.37/src/ast.rs:
+/home/czy/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/thiserror-impl-1.0.37/src/attr.rs:
+/home/czy/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/thiserror-impl-1.0.37/src/expand.rs:
+/home/czy/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/thiserror-impl-1.0.37/src/fmt.rs:
+/home/czy/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/thiserror-impl-1.0.37/src/generics.rs:
+/home/czy/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/thiserror-impl-1.0.37/src/prop.rs:
+/home/czy/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/thiserror-impl-1.0.37/src/valid.rs:

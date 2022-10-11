@@ -1,0 +1,13 @@
+/home/czy/Desktop/Rust_project/Black Hat Rust Learning/tricoder/target/debug/deps/quote-7df4ab01372e23f2.rmeta: /home/czy/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/quote-1.0.21/src/lib.rs /home/czy/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/quote-1.0.21/src/ext.rs /home/czy/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/quote-1.0.21/src/format.rs /home/czy/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/quote-1.0.21/src/ident_fragment.rs /home/czy/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/quote-1.0.21/src/to_tokens.rs /home/czy/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/quote-1.0.21/src/runtime.rs /home/czy/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/quote-1.0.21/src/spanned.rs
+
+/home/czy/Desktop/Rust_project/Black Hat Rust Learning/tricoder/target/debug/deps/libquote-7df4ab01372e23f2.rlib: /home/czy/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/quote-1.0.21/src/lib.rs /home/czy/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/quote-1.0.21/src/ext.rs /home/czy/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/quote-1.0.21/src/format.rs /home/czy/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/quote-1.0.21/src/ident_fragment.rs /home/czy/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/quote-1.0.21/src/to_tokens.rs /home/czy/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/quote-1.0.21/src/runtime.rs /home/czy/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/quote-1.0.21/src/spanned.rs
+
+/home/czy/Desktop/Rust_project/Black Hat Rust Learning/tricoder/target/debug/deps/quote-7df4ab01372e23f2.d: /home/czy/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/quote-1.0.21/src/lib.rs /home/czy/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/quote-1.0.21/src/ext.rs /home/czy/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/quote-1.0.21/src/format.rs /home/czy/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/quote-1.0.21/src/ident_fragment.rs /home/czy/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/quote-1.0.21/src/to_tokens.rs /home/czy/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/quote-1.0.21/src/runtime.rs /home/czy/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/quote-1.0.21/src/spanned.rs
+
+/home/czy/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/quote-1.0.21/src/lib.rs:
+/home/czy/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/quote-1.0.21/src/ext.rs:
+/home/czy/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/quote-1.0.21/src/format.rs:
+/home/czy/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/quote-1.0.21/src/ident_fragment.rs:
+/home/czy/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/quote-1.0.21/src/to_tokens.rs:
+/home/czy/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/quote-1.0.21/src/runtime.rs:
+/home/czy/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/quote-1.0.21/src/spanned.rs:
